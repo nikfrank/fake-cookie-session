@@ -1,9 +1,12 @@
 {
   "name": "fake-cookie-session",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "homepage": "http://nikfrank.com/#/works/fake-cookie-session",
   "description": "Fake cookie sessions via POST w client adapter",
-  "dependencies": {},
+  "dependencies": {
+      "buffalo":"latest",
+      "bitwise-xor":"latest"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/nikfrank/fake-cookie-session.git"
