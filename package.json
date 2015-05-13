@@ -1,0 +1,35 @@
+{
+  "name": "fake-cookie-session",
+  "version": "0.0.1",
+  "homepage": "http://nikfrank.com/#/works/fake-cookie-session",
+  "description": "Fake cookie sessions via POST w client adapter",
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nikfrank/fake-cookie-session.git"
+  },
+  "keywords": [
+    "middleware"
+  ],
+  "devDependencies": {
+    "mocha": "1.18.2"
+  },
+  "main": "fake-cookie-session",
+  "engines": {
+    "node": ">= 0.10.0",
+    "npm": ">= 1.3.0"
+  },
+  "author": {
+    "name": "Nik Frank",
+    "email": "nikbfrank+npm@gmail.com",
+    "url": "http://nikfrank.com/"
+  },
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/nikfrank/fake-cookie-session/issues"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "readmeFilename": "README.md"
+}
