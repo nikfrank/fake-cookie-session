@@ -5,7 +5,8 @@
   "description": "Fake cookie sessions via POST w client adapter",
   "dependencies": {
       "buffalo":"latest",
-      "bitwise-xor":"latest"
+      "bitwise-xor":"latest",
+      "ware-router":"latest"
   },
   "repository": {
     "type": "git",
